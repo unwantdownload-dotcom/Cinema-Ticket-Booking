@@ -2,6 +2,12 @@
 
 A modern, responsive, full-stack Cinema Ticket Booking website with customer booking flows, interactive hall seat selection, real dynamic QR-code tickets, checkout, user authentication, and a complete Admin Dashboard with sales analytics and CRUD management.
 
+## 🌐 Live Demo
+
+> **👉 [Click here to view the Live Site](https://cineverse-XXXX.onrender.com)**
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 ---
 
 ## ✨ Features
